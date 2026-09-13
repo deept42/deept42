@@ -11,8 +11,6 @@
 </div>
 
 
-## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,html,css,tailwind,materialui,vite&perline=9" alt="frontend" />
 </p>
@@ -29,17 +27,3 @@
   <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 </p>
-
----
-
-## 🗂️ o que já construí
-
-| projeto | o que é | stack |
-|---|---|---|
-| **Karavos** | CRM, briefing e produção de conteúdo | Next.js · React · TypeScript · Tailwind · PostgreSQL |
-| **mchat** | chat web + mobile (monorepo) | Next.js · Expo · tRPC · Prisma · MariaDB · Redis |
-| **Talentos** | gestão de talentos | PHP · React · Material UI · MySQL · Docker |
-| **workshop** | site e admin de evento (WMRD-PR) | HTML/CSS/JS · TypeScript |
-| **Maximizados** | site de comunidade, cursos e eventos | HTML · JavaScript · Vite |
-
----
