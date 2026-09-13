@@ -1,10 +1,5 @@
 <div align="center">
 
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Fullstack+TypeScript;React+%2B+Next.js+%2B+Expo;NestJS+%2B+Prisma;Painel%2C+app+e+API+de+ponta+a+ponta" alt="typing" />
-</p>
-
 **fullstack** · TypeScript · React · mobile
 
 
