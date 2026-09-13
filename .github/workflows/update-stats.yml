@@ -1,0 +1,52 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: update-profile-stats
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: profile/stats.svg
+          token: ${{ secrets.PAT_1 }}
+          fail_on_error: true
+          options: >-
+            username=deept42&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true
+
+      - name: Generate top langs card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: profile/top-langs.svg
+          token: ${{ secrets.PAT_1 }}
+          fail_on_error: true
+          options: >-
+            username=deept42&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg
+          if git diff --staged --quiet; then
+            echo "No card changes"
+            exit 0
+          fi
+          git commit -m "Update GitHub stats cards"
+          git push

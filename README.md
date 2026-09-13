@@ -46,8 +46,8 @@ infra         Docker · GitHub
 ## github
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=deept42&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="estatísticas do GitHub" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=deept42&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="linguagens mais usadas" />
+  <img height="165" src="./profile/stats.svg" alt="estatísticas do GitHub" />
+  <img height="165" src="./profile/top-langs.svg" alt="linguagens mais usadas" />
 </div>
 
 <div align="center">
