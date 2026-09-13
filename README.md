@@ -18,17 +18,6 @@ construo produtos de ponta a ponta: painel web, app, API e o banco que segura o 
 
 ---
 
-## agora
-
-estou construindo o **AppEmpregos**: marketplace de serviços avulsos.
-
-o empregador publica o serviço, alguém perto pega o trabalho, o valor fica reservado na plataforma e os dois se avaliam no fim.
-
-- **mobile** — Expo · React Native · TypeScript
-- **api** — NestJS · Prisma · JWT · PostgreSQL
-
----
-
 ## o que já construí
 
 | projeto | o que é | stack |
