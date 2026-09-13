@@ -1,6 +1,5 @@
 <div align="center">
 
-# Hi 👋 sou o Thiago
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Fullstack+TypeScript;React+%2B+Next.js+%2B+Expo;NestJS+%2B+Prisma;Painel%2C+app+e+API+de+ponta+a+ponta" alt="typing" />
@@ -8,21 +7,9 @@
 
 **fullstack** · TypeScript · React · mobile
 
-construo produtos de ponta a ponta: o painel, o app e a API.
 
 </div>
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/deept42">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-1C1D21?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="32" alt="GitHub" />
-  </a>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -84,8 +71,3 @@ construo produtos de ponta a ponta: o painel, o app e a API.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="dev quote" />
 </p>
 
-<div align="center">
-
-obrigado por passar por aqui.
-
-</div>
