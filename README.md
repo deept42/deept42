@@ -5,10 +5,6 @@
 
 </div>
 
-
-
-## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,html,css,tailwind,materialui,vite&perline=9" alt="frontend" />
 </p>
