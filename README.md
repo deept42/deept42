@@ -76,14 +76,6 @@ construo produtos de ponta a ponta: o painel, o app e a API.
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deept42&theme=github-compact&hide_border=true&area=true&line=58A6FF&point=58A6FF&color=8B949E&title_color=58A6FF" alt="contribution graph" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deept42/deept42/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deept42/deept42/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man no calendário de contribuições" src="https://raw.githubusercontent.com/deept42/deept42/output/pacman-contribution-graph-dark.svg">
-  </picture>
-</p>
-
 ---
 
 ## 💬 Random Dev Quote
