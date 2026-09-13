@@ -12,7 +12,6 @@ construo produtos de ponta a ponta: painel web, app, API e o banco que segura o 
 [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>
@@ -34,12 +33,11 @@ o empregador publica o serviço, alguém perto pega o trabalho, o valor fica res
 
 | projeto | o que é | stack |
 |---|---|---|
-| **Karavos** | CRM, briefing e produção de conteúdo | Next.js · React · TypeScript · Tailwind · Supabase |
+| **Karavos** | CRM, briefing e produção de conteúdo | Next.js · React · TypeScript · Tailwind · PostgreSQL |
 | **mchat** | chat web + mobile (monorepo) | Next.js · Expo · tRPC · Prisma · MariaDB · Redis |
 | **Talentos** | gestão de talentos | PHP · React · Material UI · MySQL · Docker |
-| **workshop** | site e admin de evento (WMRD-PR) | HTML/CSS/JS · TypeScript · Supabase |
+| **workshop** | site e admin de evento (WMRD-PR) | HTML/CSS/JS · TypeScript |
 | **Maximizados** | site de comunidade, cursos e eventos | HTML · JavaScript · Vite |
-| **Cargo Line** | site institucional | HTML · React · Vercel |
 
 ---
 
@@ -50,8 +48,8 @@ linguagens    TypeScript · JavaScript · PHP · Python
 frontend      React · Next.js · Tailwind · Chakra UI · Material UI
 mobile        React Native · Expo · Expo Router
 backend       NestJS · tRPC · Prisma · NextAuth / JWT
-dados         PostgreSQL · Supabase · MySQL/MariaDB · Redis
-infra         Docker · Vercel · GitHub
+dados         PostgreSQL · MySQL/MariaDB · Redis
+infra         Docker · GitHub
 ```
 
 ---
